@@ -1,0 +1,16 @@
+{
+  "name": "expressRoutes",
+  "version":"0.0.0",
+  "description":"expressRoutes",
+  "main":"app.js",
+  "dependencies":{
+    "consolidate":"~0.12.1",
+    "express":"~4.13.3",
+    "mongodb":"~2.0.40",
+    "swig":"~1.4.2"
+  },
+  "author":"Gonzalo Gisbert",
+  "license":"BSD"
+
+
+}
